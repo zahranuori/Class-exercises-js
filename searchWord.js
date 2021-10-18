@@ -34,4 +34,4 @@ const wordSearch = (str1 , str2) => {
     return -1
 }
 
-console.log(wordSearch('reeezaaa' , 'eza'))
+console.log(wordSearch('reza zahra' , 'zahra'))

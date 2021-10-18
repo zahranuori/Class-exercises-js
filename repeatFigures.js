@@ -13,4 +13,4 @@ function repeatNumber(number) {
     }
 }
 
-console.log(repeatNumber(197))
+console.log(repeatNumber(19735))
